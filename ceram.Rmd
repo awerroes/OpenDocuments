@@ -1,0 +1,368 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# "CERAM" - Rodowody Cywilizacji
+
++ Alfabet czyli Klucz do dziejów ludzkości (Diringer David)
+
++ Ałtaj - Himalaje (Rerich Mikołaj (Rerich Nikołaj))
+
++ Angkor i Imperium Khmerskie (Audric John)
+
++ Arabia Felix: Historia duńskiej ekspedycji 1761-1767 (Hansen Thorkild) 
+
+Arabowie (Danecki Janusz) 
+
++ Armenia: Kolebka cywilizacji (Lang David Marshall)
+
+Aztekowie: Próba interpretacji (Clendinnen Inga)
+
+Bliski Wschód od wypraw krzyżowych do 1517 roku (Holt Peter)
+
++ Bogowie i Giganci: Powieść o ołtarzu pergameńskim (Stoll Heinrich Alexander) 
+
++ Bogowie, groby i uczeni: Powieść o archeologii (Ceram C. W. (właśc. Marek Kurt Wilhelm)) 
+
+Bóg i człowiek w starożytnym Egipcie (Morenz Siegfried)
+
++ Buddyjski pielgrzym w świątyniach Tybetu (Cybikow Gonbodżab) 
+
+Budowniczowie pierwszych świątyń (Schmidt Klaus (archeolog))
+
+Bułgarzy: Od czasów pogańskich do podboju przez Turcję Osmańską (Lang David Marshall) 
+
++ Burzliwe dzieje Morza Karaibskiego (Arciniegas Germán) 
+
+Cesarstwo Bizantyńskie (Browning Robert (1914-1997))
+
+Chiny: Zarys historii kultury (Fitzgerald Charles Patrick) 
+
+Cień Minotaura (Ciechanowicz Jerzy)
+
+Cywilizacja chińska (Granet Marcel)
+
+Cywilizacja islamu (Sourdel Janine, Sourdel Dominique)
+
+Cywilizacja Odrodzenia (Delumeau Jean)
+
++ Cywilizacja wczesnego chrześcijaństwa I-IV w. (Simon Marcel) 
+
++ Cywilizacja wieku Oświecenia (Chaunu Pierre)
+
++ Czarna matka (Davidson Basil) 
+
+Czarna śmierć: Historia epidemii z lat 1345-1730 (Naphy William, Spicer Andrew) 
+
+Czasy Konstantyna Wielkiego (Burckhardt Jakób (Burckhardt Jacob))
+
+Czciciele gwiazd: Śladami zaginionych kultur peruwiańskich (Stingl Miloslav) 
+
+Człowiek i śmierć (Ariès Philippe) 
+
+Dakowie (Daicoviciu Hadrian)
+
+Dawna Gruzja (Lang David Marshall)
+
+Dawna kultura Japonii (Jofan Natalia)
+
++ Dawni Mongołowie (Kałużyński Stanisław)
+
+Dzieje chrześcijaństwa na Litwie (Ališauskas Vytautas, Baronas Darius, Paknys Mindaugas, Jovaiša Liudas, Raila Eligijus, Subačius Paulius, Streikus Arunas)
+
+Dzieje Cyganów (Fraser Angus)
+
+Dzieje dawnego Izraela (Grant Michael (1914-2004))
+
++ Dzieje dawnych Turków (Gumilow Lew)
+
++ Dzieje Grecji (Hammond Nicholas Geoffrey Lemprière)
+
+Dzieje i kultura Hanzy (Schildhauer Johannes)
+
++ Dzieje i kultura ludów Azji Centralnej (Gafurow Bobodżan)
+
+Dzieje imperium perskiego (Olmstead A. T.)
+
+Dzieje Morza Czarnego (King Charles)
+
+Dzieje Rzymu (Cary Max, Scullard Howard Hayes)
+
+Dzieje starożytnego Egiptu (Grimal Nicolas)
+
+Dzieje wypraw krzyżowych (Runciman Steven)
+
+Florencja: Świat miasta - miasto świata (Beuys Barbara)
+
+Goci: Rzeczywistość i legenda (Strzelczyk Jerzy)
+
++ Hannibal (Charles-Picard Gilbert)
+
++ Hellada królów (Świderkówna Anna (Świderek Anna))
+
++ Hellenika: Wizerunek epoki od Aleksandra do Augusta (Świderkówna Anna (Świderek Anna))
+
++ Hetyci i ich sąsiedzi: Dzieje kultury Azji mniejszej od Çatalhüyük do Aleksandra Wielkiego (Klengel Evelyn, Klengel Horst)
+
++ Historia i kultura starożytnej Syrii (Klengel Horst)
+
++ Historia kultury bizantyńskiej (Haussig Hans-Wilhelm)
+
+Historia państwa Inków (Rostworowska Maria (właśc. Rostworowski de Diez-Canseco Maria))
+
+Historia społeczna Anglii: Od Chaucera do Wiktorii (Trevelyan George Macaulay)
+
+Historia wychowania w starożytności (Marrou Henri Irenée)
+
+Hunowie (Thompson Edward Arthur)
+
+Huryci (Popko Maciej)
+
+Indianie z Meksyku (Benitez Fernando)
+
++ Indie: Od początku dziejów do podboju muzułmańskiego (Basham Arthur L. (Basham Arthur Llewellyn))
+
+Inkwizycja hiszpańska (Kamen Henry)
+
+Iroszkoci w kulturze średniowiecznej Europy (Strzelczyk Jerzy)
+
++ Japonia od czasów najdawniejszych do dzisiaj (Hall John Whitney)
+
+Jaśniej niż tysiąc słońc: Losy badaczy atomu (Jungk Robert (właśc. Baum Robert))
+
++ Jedwabny szlak: Kultury antyku między Chinami a Rzymem (Uhlig Helmut) - z Książnicy
+
++ Jesień średniowiecza (Huizinga Johan)
+
+Kair (Raymond André)
+
+Katarzy (Barber Malcolm) 
+
+Kawalerowie maltańscy (Sire H. J. A.) 
+
++ Konkwistadorzy portugalscy (Małowist Marian) 
+
+Kościół w świecie późnego antyku (Wipszycka Ewa)  
+
+Król tańczył na targowisku (Gillmor Frances) 
+
+Księga wychodzenia za dnia: Tajemnice egipskiej księgi umarłych (Barwik Mirosław) 
+
+Kultura starobułgarska (Waklinow Stanczo)
+
++ Kultura Wysp Cykladzkich w epoce brązu (Press Ludwika)
+
++ Kulty, religie i tradycje Chin (Wasiliew Leonid)
+
++ Lapończycy: Zarys historii kultury (Vorren Ørnulv, Manker Ernst)
+
+Lud faraonów: Od wieśniaka do dworzanina (Wilson Hilary)
+
+Magia i wróżbiarstwo u Hetytów (Popko Maciej) 
+
+Malarstwo etruskie (Dobrowolski Witold)
+
+Maorysi z Nowej Zelandii (Metge Joan) 
+
++ Masynissa (Kotula Tadeusz)
+
+Mazagan: Miasto które przepłynęło Atlantyk (Vidal Laurent) 
+
+Meksyk przed konkwistą (Olko Justyna) 
+
+Merowingowie i Karolingowie (Faber Gustav) 
+
++ Miasta Wezuwiusza: Pompeje i Herkulanum (Grant Michael (1914-2004)) 
+
+Miłość w starożytnym Egipcie (Krzemińska Agnieszka) 
+
+Miłość w starożytnym Rzymie (Grimal Pierre) 
+
++ Mity greckie (Graves Robert) 
+
++ Mity rzymskie (Grant Michael (1914-2004)) 
+
+Mity, rytuały i polityka Inków (Szemiński Jan, Ziółkowski Mariusz)  
+
+Młodsza Europa: Europa Środkowo-Wschodnia w kręgu cywilizacji chrześcijańskiej średniowiecza (Kłoczowski Jerzy) 
+
+Monastycyzm średniowieczny: Formy życia religijnego w średniowiecznej Europie Zachodniej (Lawrence Clifford Hugh) 
+
+Moneta w kulturze wieków średnich (Kiersnowski Ryszard (1925-2006))
+
++ Morze wokół nas (Carson Rachel Louise) 
+
++ Na drogach i szlakach Rzymian (Wielowiejski Jerzy)
+
+Na granicach Rosji: Budowanie imperium na stepie, 1500-1800 (Khodarkovsky Michael)  
+
++ Nad Nilem Błękitnym i Białym (Moorehead Alan) 
+
+Narodziny weneckiego imperium kolonialnego (Sokołow Nikołaj) 
+
+Nowożytna historia Japonii: Od czasów Tokugawów do współczesności (Gordon Andrew) 
+
+Obrazy Włoch (Muratow Paweł)
+
+Od Olimpii do Niniwy w epoce Homera (Riemschneider Margarete) 
+
++ Od Rusi do Rosji: Szkice z historii etnicznej (Gumilow Lew) 
+
++ Odkrywcy i rabusie starożytności: Rzecz o wykopaliskach (Lorenz Eva) 
+
+Ogień i krew: Historia Ameryki Łacińskiej (Chasteen John Charles) 
+
+Panorama średniowiecznej Anglii (Coulton George Gordon)
+
++ Panowie i niewolnicy (Freyre Gilberto) 
+
+Pawi Tron: Dramat Indii Wielkich Mogołów (Hansen Waldemar) 
+
+Pierwotni mieszkańcy Australii (Rose Frederick) 
+
+Pierwsze słowo: Narodziny mowy i pisma (Kuckenburg Martin)  
+
+Pierwsze wieki historii Rusi (Rybakow Borys)
+
++ Pierwszy Amerykanin: Zagadka studiów prekolumbijskich (Ceram C. W. (właśc. Marek Kurt Wilhelm)) 
+
+Pięć rozdroży w dziejach świata: Porównanie (Schramm Gottfried) 
+
+Piramidy Egiptu (Edwards Iorwerth Eiddon Stephen)
+
++ Podbój Peru (Prescott William H.) 
+
++ Pokażcie mi testament Adama: Na szlakach nowożytnych odkryć geograficznych (Herrmann Paul) 
+
+Pokolenia w niewoli: Historia niewolnictwa w Ameryce Północnej (Berlin Ira) 
+
+Polowania na czarownice: Dzieje prześladowań czarownic w Europie i Ameryce Północnej (Thurston Robert) 
+
++ Potęga wyobraźni (Bronowski Jacob) 
+
++ Praga: Legenda i rzeczywistość (Krejčí Karel) 
+
+Prawdziwa historia czekolady (Coe Sophie D., Coe Michael D.) 
+
+Przemysł polski w dawnych wiekach (Bocheński Aleksander) 
+
+Ramzes Wielki i jego czasy (Kitchen Kenneth) 
+
+Religia starożytnych Egipcjan (Černý Jaroslav)
+
++ Renesans islamu (Mez Adam) 
+
+Rosja: Dziedzictwo caratu i władzy radzieckiej (Acton Edward) 
+
+Rycerstwo (Keen Maurice)  
+
+Rzym i świat śródziemnomorski do wojen punickich (Heurgon Jacques)
+
++ Rzym: Ludzie i budowle (Ciechanowicz Jerzy) 
+
+Samuraje (Śpiewakowski Aleksander) 
+
+Sarmaci (Sulimirski Tadeusz)
+
+Scytowie (Smirnow Aleksiej)
+
+Seksualność w średniowiecznej Europie (Karras Ruth Mazo) 
+
+Siedem cudów świata (Romer John, Romer Elizabeth)
+
++ Siódma minęła, ósma przemija: Przygody najwcześniejszych odkryć (Herrmann Paul) 
+
++ Słowiański rodowód (Jasienica Paweł (właśc. Beynar Leon Lech))  
+
++ Smutek tropików (Lévi-Strauss Claude)  
+
+Spadkobiercy: Opowieść o człowieku i stworzonym przez niego świecie (Calder Ritchie (właśc. Ritchie Calder Peter))
+
+Społeczeństwo feudalne (Bloch Marc) 
+
+Stara Afryka na nowo odkryta (Davidson Basil) 
+
+Starożytna Macedonia (Hammond Nicholas Geoffrey Lemprière)
+
+Starożytni Celtowie (Cunliffe Barry) 
+
+Starożytni olimpijczycy (Miller Stephen G.) 
+
+Starożytny Egipt: Anatomia cywilizacji (Kemp Barry J.) 
+
+Starzy i nowi bogowie Japonii (Arutjunow Siergiej, Swietłow Gieorgij) 
+
+Strażnicy złota (Albaum L. I., Brentjes B.)
+
+Szlak mirry i kadzidła (Scheck Frank Rainer) 
+
++ Sztuka Etrusków (Dobrowolski Witold)
+
++ Sztuka ziemi trackiej (Conczewa Mara) 
+
++ Śladami cywilizacji wielkiego stepu (Gumilow Lew) 
+
+Śmierć i pogrzeb w starożytnym Egipcie (Ikram Salima) 
+
+Świat dawnych Słowian (Vana Zdenek)
+
+Świat Księcia Promienistego (Morris Ivan) 
+
+Świt narodów europejskich: Powstawanie świadomości narodowej na obszarze Europy pokarolińskiej (Zientara Benedykt) 
+
++ Tamerlan i jego czasy (Małowist Marian) 
+
+Templariusze (Barber Malcolm) 
+
++ Tutanchamon: Życie, śmierć, odrodzenie (Desroches-Noblecourt Christiane) 
+
+Twórcy kultury holenderskiej (Romein Jan, Romein Anna)
+
+Tybet: Zarys historii kultury (Snellgrove David, Richardson Hugh)
+
+Upadek Cesarstwa Rzymskiego na Zachodzie (Gibbon Edward) 
+
+Upadek Konstantynopola 1453 (Runciman Steven)
+
+Upadek Rzymu (Vogt Joseph) 
+
+W niebo wpatrzeni (Ley Willy) 
+
+W poszukiwaniu przodków człowieka (Łariczew Witalij)
+
+Wandalowie i ich afrykańskie państwo (Strzelczyk Jerzy) 
+
+Wercyngetoryks (Markale Jean) 
+
++ Wielkość i upadek Babilonii (Saggs H. W. F. (Saggs Henry William Frederick)) 
+
+Wikingowie (Foote Peter Godfrey, Wilson David MacKenzie) 
+
+Wikingowie Pacyfiku (Buck Peter Henry) 
+
+Wódz Słońca: Autobiografia D. C. Talayesvy, Indianina z plemienia Hopi (Talayesva Don, Simmons Leo)
+
++ Wyprawy wikingów: Dawni Normanowie w Grenlandii i Ameryce Północnej (Mowat Farley) 
+
++ Z dziejów imperium Osmanów - Sułtan Mehmed Zdobywca i jego czasy (Babinger Franz)
+
++ Z dziejów malarstwa greckiego i rzymskiego (Nowicka Maria)
+
+Z kraju królowej Saby (Pankhurst Sylvia)
+
+Z powrotem na Ziemię: Spór o pochodzenie cywilizacji ludzkich (praca zbiorowa / wielu autorów) 
+
++ Zagadki Maroka (Mazel Jean)
+
++ Zaginione cywilizacje (Kondratow Aleksander) 
+
++ Zapomniany świat Sumerów (Bielicki Marian Leon (pseud. Lemar Stefan)) 
+
+Ze świata Celtów (Dillon Myles, Chadwick Nora K.) 
+
+Złota gałąź: Studia z magii i religii (Frazer James George)
+
+Zmierzch Azteków: Kronika Zwyciężonych - indiańskie relacje o podboju (praca zbiorowa / wielu autorów)
+
++ Zmierzch Cesarstwa Rzymskiego (Gibbon Edward)  
