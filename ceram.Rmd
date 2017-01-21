@@ -25,7 +25,7 @@ Bliski Wschód od wypraw krzyżowych do 1517 roku (Holt Peter)
 
 + Bogowie, groby i uczeni: Powieść o archeologii (Ceram C. W. (właśc. Marek Kurt Wilhelm)) 
 
-Bóg i człowiek w starożytnym Egipcie (Morenz Siegfried)
++ Bóg i człowiek w starożytnym Egipcie (Morenz Siegfried)
 
 + Buddyjski pielgrzym w świątyniach Tybetu (Cybikow Gonbodżab) 
 
@@ -57,7 +57,7 @@ Czarna śmierć: Historia epidemii z lat 1345-1730 (Naphy William, Spicer Andrew
 
 Czasy Konstantyna Wielkiego (Burckhardt Jakób (Burckhardt Jacob))
 
-Czciciele gwiazd: Śladami zaginionych kultur peruwiańskich (Stingl Miloslav) 
++ Czciciele gwiazd: Śladami zaginionych kultur peruwiańskich (Stingl Miloslav) 
 
 Człowiek i śmierć (Ariès Philippe) 
 
@@ -95,7 +95,7 @@ Dzieje wypraw krzyżowych (Runciman Steven)
 
 Florencja: Świat miasta - miasto świata (Beuys Barbara)
 
-Goci: Rzeczywistość i legenda (Strzelczyk Jerzy)
++ Goci: Rzeczywistość i legenda (Strzelczyk Jerzy)
 
 + Hannibal (Charles-Picard Gilbert)
 
@@ -125,7 +125,7 @@ Indianie z Meksyku (Benitez Fernando)
 
 Inkwizycja hiszpańska (Kamen Henry)
 
-Iroszkoci w kulturze średniowiecznej Europy (Strzelczyk Jerzy)
++ Iroszkoci w kulturze średniowiecznej Europy (Strzelczyk Jerzy)
 
 + Japonia od czasów najdawniejszych do dzisiaj (Hall John Whitney)
 
@@ -159,7 +159,7 @@ Kultura starobułgarska (Waklinow Stanczo)
 
 Lud faraonów: Od wieśniaka do dworzanina (Wilson Hilary)
 
-Magia i wróżbiarstwo u Hetytów (Popko Maciej) 
++ Magia i wróżbiarstwo u Hetytów (Popko Maciej) 
 
 Malarstwo etruskie (Dobrowolski Witold)
 
@@ -177,7 +177,7 @@ Merowingowie i Karolingowie (Faber Gustav)
 
 Miłość w starożytnym Egipcie (Krzemińska Agnieszka) 
 
-Miłość w starożytnym Rzymie (Grimal Pierre) 
++ Miłość w starożytnym Rzymie (Grimal Pierre) 
 
 + Mity greckie (Graves Robert) 
 
@@ -217,13 +217,13 @@ Panorama średniowiecznej Anglii (Coulton George Gordon)
 
 + Panowie i niewolnicy (Freyre Gilberto) 
 
-Pawi Tron: Dramat Indii Wielkich Mogołów (Hansen Waldemar) 
++ Pawi Tron: Dramat Indii Wielkich Mogołów (Hansen Waldemar) 
 
 Pierwotni mieszkańcy Australii (Rose Frederick) 
 
 Pierwsze słowo: Narodziny mowy i pisma (Kuckenburg Martin)  
 
-Pierwsze wieki historii Rusi (Rybakow Borys)
++ Pierwsze wieki historii Rusi (Rybakow Borys)
 
 + Pierwszy Amerykanin: Zagadka studiów prekolumbijskich (Ceram C. W. (właśc. Marek Kurt Wilhelm)) 
 
@@ -319,7 +319,7 @@ Templariusze (Barber Malcolm)
 
 Twórcy kultury holenderskiej (Romein Jan, Romein Anna)
 
-Tybet: Zarys historii kultury (Snellgrove David, Richardson Hugh)
++ Tybet: Zarys historii kultury (Snellgrove David, Richardson Hugh)
 
 Upadek Cesarstwa Rzymskiego na Zachodzie (Gibbon Edward) 
 
@@ -331,7 +331,7 @@ W niebo wpatrzeni (Ley Willy)
 
 W poszukiwaniu przodków człowieka (Łariczew Witalij)
 
-Wandalowie i ich afrykańskie państwo (Strzelczyk Jerzy) 
++ Wandalowie i ich afrykańskie państwo (Strzelczyk Jerzy) 
 
 Wercyngetoryks (Markale Jean) 
 
@@ -341,7 +341,7 @@ Wikingowie (Foote Peter Godfrey, Wilson David MacKenzie)
 
 Wikingowie Pacyfiku (Buck Peter Henry) 
 
-Wódz Słońca: Autobiografia D. C. Talayesvy, Indianina z plemienia Hopi (Talayesva Don, Simmons Leo)
++ Wódz Słońca: Autobiografia D. C. Talayesvy, Indianina z plemienia Hopi (Talayesva Don, Simmons Leo)
 
 + Wyprawy wikingów: Dawni Normanowie w Grenlandii i Ameryce Północnej (Mowat Farley) 
 
@@ -349,7 +349,7 @@ Wódz Słońca: Autobiografia D. C. Talayesvy, Indianina z plemienia Hopi (Talay
 
 + Z dziejów malarstwa greckiego i rzymskiego (Nowicka Maria)
 
-Z kraju królowej Saby (Pankhurst Sylvia)
++ Z kraju królowej Saby (Pankhurst Sylvia)
 
 Z powrotem na Ziemię: Spór o pochodzenie cywilizacji ludzkich (praca zbiorowa / wielu autorów) 
 
@@ -361,7 +361,7 @@ Z powrotem na Ziemię: Spór o pochodzenie cywilizacji ludzkich (praca zbiorowa 
 
 + Ze świata Celtów (Dillon Myles, Chadwick Nora K.) 
 
-Złota gałąź: Studia z magii i religii (Frazer James George)
++ Złota gałąź: Studia z magii i religii (Frazer James George)
 
 Zmierzch Azteków: Kronika Zwyciężonych - indiańskie relacje o podboju (praca zbiorowa / wielu autorów)
 
