@@ -1,16 +1,16 @@
-Id/t"Data dodania"/t"Nazwisko autora"/t"Imię autora"/t"Nazwisko autora 2"/t"Imię autora 2"/t"Nazwisko autora 3"/t"Imię autora 3"/tTytuł/tSeria/tWydawnictwo/t"Miejsce wydania"/t"Rok wydania"/t"Słowa kluczowe"/t"Nota wydawcy"/t"Lokalizacja"/tCena/tUwagi
-1/t"2017-01-22"/tDobrowolski/tWitold/tNA/tNA/tNA/tNA/tMalarstwo etruskie/tRodowody Cywilizacji (Ceram)/tPaństwowy Instytut Wydawniczy/tWarszawa/t1979/tNA/tNA/tKraków/t5/tNA
-2/t"2017-01-22"/tWaklinow/tStanczo/tNA/tNA/tNA/tNA/tKultura starobułgarska/tRodowody Cywilizacji (Ceram)/tPaństwowy Instytut Wydawniczy/tWarszawa/t1984/tNA/tNA/tKraków/t5/tNA
-3/t"2017-01-22"/tŚwiderkówna/tAnna/tNA/tNA/tNA/tNA/tSiedem Kleopatr/tNA/tWiedza Powszechna/tWarszawa/t1978/tNA/tNA/tKraków/t3/tNA
-4/t"2017-01-22"/tWiliams/tJ./tNA/tNA/tNA/tNA/tStrateg doskonały. Wprowadzenie do teorii gier./tOmega/tPaństwowe Wydawnictwo Naukowe/tWarszawa/t1964/tNA/tNA/tKraków/t15/tNA
-5/t"2017-01-22"/tFaraday/tMichael/tNA/tNA/tNA/tNA/tDzieje świecy/tKlasycy nauki/tPrószyński i S-ka/tWarszawa/t1997/tNA/tNA/tKraków/t16/tNA
-6/t"2017-01-22"/tJasienica/tPaweł/tNA/tNA/tNA/tNA/tPolska anarchia/tNA/tCzytelnik/tWarszawa/t1993/tNA/tNA/tKraków/t4/tNA
-7/t"2017-01-22"/tAbelson/tHarald./tSussman/tGreald Jay/tSussman/tJulie/tStruktura i interpretacja programów komputerowych/tKlasyka informatyki/tWydawnictwo Naukowo - Techniczne/tWarszawa/t2002/tNA/tNA/tKraków/t15/tNA
-8/t"2017-01-22"/tBochnak/tAdam/tSamek/tJan/tNA/tNA/tKraków. Kościoły i klasztory Śródmieścia. Tekst/tKatalog Zabytków Sztuki w Polsce/tInstytut Sztuki Polskiej Akademii Nauk/tWarszawa/t1971/tNA/tNA/tKraków/t4/tNA
-9/t"2017-01-22"/tBochnak/tAdam/tSamek/tJan/tNA/tNA/tKraków. Kościoły i klasztory Śródmieścia. Ilustracje 1/tKatalog Zabytków Sztuki w Polsce/tInstytut Sztuki Polskiej Akademii Nauk/tWarszawa/t1978/tNA/tNA/tKraków/t4/tNA
-10/t"2017-01-22"/tBochnak/tAdam/tSamek/tJan/tNA/tNA/tKraków. Kościoły i klasztory Śródmieścia. Ilustracje 2/tKatalog Zabytków Sztuki w Polsce/tInstytut Sztuki Polskiej Akademii Nauk/tWarszawa/t1978/tNA/tNA/tKraków/t4/tNA
-11/t"2017-01-22"/tStewart/tIan/tNA/tNA/tNA/tNA/tDlaczego prawda jest piękna. O symetrii w matematyce i fizyce/tNa ścieżkach nauki nauki/tPrószyński i S-ka/tWarszawa/t2012/tNA/tNA/tKraków/t35/tNA
-12/t"2017-01-22"/tKotański/tWiesław/tThek/tKim Czun/tTue/tHoang/tZ krańców Azji/tMyśli srebrne i złote/tWiedza Powszechna/tWarszawa/t1960/tNA/tNA/tKraków/t3/tNA
-13/t"2017-01-22"/tBrandwajn/tRachmiel/tNA/tNA/tNA/tNA/tWolna myśl francuska XVII wieku/tMyśli srebrne i złote/tWiedza Powszechna/tWarszawa/t1960/tNA/tNA/tKraków/t3/tNA
-14/t"2017-01-22"/tRożek/tMichał/tNA/tNA/tNA/tNA/tPanteon Narodowy na Skałce/tNA/tCentralny Ośrodek Informacji Turystycznej. Oddział w Krakowie/tKraków/t1987/tNA/tNA/tKraków/t3/tNA
-15/t"2017-01-22"/tKołodziejczyk/tIwo/tNA/tNA/tNA/tNA/tMogiła opactwo cystersów/tNA/tDrukarnia VACAT/tKraków/t1992/tNA/tNA/tKraków/t3/tNA
+Id;"Data dodania";"Nazwisko autora";"Imię autora";"Nazwisko autora 2";"Imię autora 2";"Nazwisko autora 3";"Imię autora 3";Tytuł;Seria;Wydawnictwo;"Miejsce wydania";"Rok wydania";"Słowa kluczowe";"Nota wydawcy";"Lokalizacja";Cena;Uwagi
+1;"2017-01-22";Dobrowolski;Witold;NA;NA;NA;NA;Malarstwo etruskie;Rodowody Cywilizacji (Ceram);Państwowy Instytut Wydawniczy;Warszawa;1979;NA;NA;Kraków;5;NA
+2;"2017-01-22";Waklinow;Stanczo;NA;NA;NA;NA;Kultura starobułgarska;Rodowody Cywilizacji (Ceram);Państwowy Instytut Wydawniczy;Warszawa;1984;NA;NA;Kraków;5;NA
+3;"2017-01-22";Świderkówna;Anna;NA;NA;NA;NA;Siedem Kleopatr;NA;Wiedza Powszechna;Warszawa;1978;NA;NA;Kraków;3;NA
+4;"2017-01-22";Wiliams;J.;NA;NA;NA;NA;Strateg doskonały. Wprowadzenie do teorii gier.;Omega;Państwowe Wydawnictwo Naukowe;Warszawa;1964;NA;NA;Kraków;15;NA
+5;"2017-01-22";Faraday;Michael;NA;NA;NA;NA;Dzieje świecy;Klasycy nauki;Prószyński i S-ka;Warszawa;1997;NA;NA;Kraków;16;NA
+6;"2017-01-22";Jasienica;Paweł;NA;NA;NA;NA;Polska anarchia;NA;Czytelnik;Warszawa;1993;NA;NA;Kraków;4;NA
+7;"2017-01-22";Abelson;Harald.;Sussman;Greald Jay;Sussman;Julie;Struktura i interpretacja programów komputerowych;Klasyka informatyki;Wydawnictwo Naukowo - Techniczne;Warszawa;2002;NA;NA;Kraków;15;NA
+8;"2017-01-22";Bochnak;Adam;Samek;Jan;NA;NA;Kraków. Kościoły i klasztory Śródmieścia. Tekst;Katalog Zabytków Sztuki w Polsce;Instytut Sztuki Polskiej Akademii Nauk;Warszawa;1971;NA;NA;Kraków;4;NA
+9;"2017-01-22";Bochnak;Adam;Samek;Jan;NA;NA;Kraków. Kościoły i klasztory Śródmieścia. Ilustracje 1;Katalog Zabytków Sztuki w Polsce;Instytut Sztuki Polskiej Akademii Nauk;Warszawa;1978;NA;NA;Kraków;4;NA
+10;"2017-01-22";Bochnak;Adam;Samek;Jan;NA;NA;Kraków. Kościoły i klasztory Śródmieścia. Ilustracje 2;Katalog Zabytków Sztuki w Polsce;Instytut Sztuki Polskiej Akademii Nauk;Warszawa;1978;NA;NA;Kraków;4;NA
+11;"2017-01-22";Stewart;Ian;NA;NA;NA;NA;Dlaczego prawda jest piękna. O symetrii w matematyce i fizyce;Na ścieżkach nauki nauki;Prószyński i S-ka;Warszawa;2012;NA;NA;Kraków;35;NA
+12;"2017-01-22";Kotański;Wiesław;Thek;Kim Czun;Tue;Hoang;Z krańców Azji;Myśli srebrne i złote;Wiedza Powszechna;Warszawa;1960;NA;NA;Kraków;3;NA
+13;"2017-01-22";Brandwajn;Rachmiel;NA;NA;NA;NA;Wolna myśl francuska XVII wieku;Myśli srebrne i złote;Wiedza Powszechna;Warszawa;1960;NA;NA;Kraków;3;NA
+14;"2017-01-22";Rożek;Michał;NA;NA;NA;NA;Panteon Narodowy na Skałce;NA;Centralny Ośrodek Informacji Turystycznej. Oddział w Krakowie;Kraków;1987;NA;NA;Kraków;3;NA
+15;"2017-01-22";Kołodziejczyk;Iwo;NA;NA;NA;NA;Mogiła opactwo cystersów;NA;Drukarnia VACAT;Kraków;1992;NA;NA;Kraków;3;NA
