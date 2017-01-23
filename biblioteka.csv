@@ -5,7 +5,7 @@ Id;"Data dodania";"Nazwisko autora";"Imię autora";"Nazwisko autora 2";"Imię au
 4;"2017-01-22";Wiliams;J.;NA;NA;NA;NA;Strateg doskonały. Wprowadzenie do teorii gier.;Omega;Państwowe Wydawnictwo Naukowe;Warszawa;1964;NA;NA;Kraków;15;NA
 5;"2017-01-22";Faraday;Michael;NA;NA;NA;NA;Dzieje świecy;Klasycy nauki;Prószyński i S-ka;Warszawa;1997;NA;NA;Kraków;16;NA
 6;"2017-01-22";Jasienica;Paweł;NA;NA;NA;NA;Polska anarchia;NA;Czytelnik;Warszawa;1993;NA;NA;Kraków;4;NA
-7;"2017-01-22";Abelson;Harald.;Sussman;Greald Jay;Sussman;Julie;Struktura i interpretacja programów komputerowych;Klasyka informatyki;Wydawnictwo Naukowo - Techniczne;Warszawa;2002;NA;NA;Kraków;15;NA
+7;"2017-01-22";Abelson;Harald.;Sussman;Greald Jay;Sussman;Julie;Struktura i interpretacja programów komputerowych;Klasyka informatyki;Wydawnictwa Naukowo - Techniczne;Warszawa;2002;NA;NA;Kraków;15;NA
 8;"2017-01-22";Bochnak;Adam;Samek;Jan;NA;NA;Kraków. Kościoły i klasztory Śródmieścia. Tekst;Katalog Zabytków Sztuki w Polsce;Instytut Sztuki Polskiej Akademii Nauk;Warszawa;1971;NA;NA;Kraków;4;NA
 9;"2017-01-22";Bochnak;Adam;Samek;Jan;NA;NA;Kraków. Kościoły i klasztory Śródmieścia. Ilustracje 1;Katalog Zabytków Sztuki w Polsce;Instytut Sztuki Polskiej Akademii Nauk;Warszawa;1978;NA;NA;Kraków;4;NA
 10;"2017-01-22";Bochnak;Adam;Samek;Jan;NA;NA;Kraków. Kościoły i klasztory Śródmieścia. Ilustracje 2;Katalog Zabytków Sztuki w Polsce;Instytut Sztuki Polskiej Akademii Nauk;Warszawa;1978;NA;NA;Kraków;4;NA
@@ -14,3 +14,20 @@ Id;"Data dodania";"Nazwisko autora";"Imię autora";"Nazwisko autora 2";"Imię au
 13;"2017-01-22";Brandwajn;Rachmiel;NA;NA;NA;NA;Wolna myśl francuska XVII wieku;Myśli srebrne i złote;Wiedza Powszechna;Warszawa;1960;NA;NA;Kraków;3;NA
 14;"2017-01-22";Rożek;Michał;NA;NA;NA;NA;Panteon Narodowy na Skałce;NA;Centralny Ośrodek Informacji Turystycznej. Oddział w Krakowie;Kraków;1987;NA;NA;Kraków;3;NA
 15;"2017-01-22";Kołodziejczyk;Iwo;NA;NA;NA;NA;Mogiła opactwo cystersów;NA;Drukarnia VACAT;Kraków;1992;NA;NA;Kraków;3;NA
+16;"2017-01-23";Pompe;Waldemar;NA;NA;NA;NA;Wokół obrotów. Przewodnik po geometrii elementarnej.;Biblioteczka Stowarzyszenia na rzecz Edukacji Matematycznej;Wydawnictwo Szkolne Omega;Kraków;2016;NA;NA;Kraków;8;NA
+17;"2017-01-23";Bartol;Wiktor;Sadowski;Witold;NA;NA;O twierdzeniach i hipotezach. Matematyka według Delty;NA;Wydawnictwo Uniwersytetu Warszawskiego;Warszawa;2016;NA;NA;Kraków;21;NA
+18;"2017-01-23";Meissner;Agata;Meissner;Krzysztof;Turzyński;Krzysztof;O kwantach i smokach. Fizyka według Delty;NA;Wydawnictwo Uniwersytetu Warszawskiego;Warszawa;2016;NA;NA;Kraków;21;NA
+19;"2017-01-23";Bryński;Maciej;Włodarski;Ludomir;NA;NA;Konstrukcje geometryczne;Biblioteczka Delty;Wydawnictwa Szkolne i Pedagogiczne;Warszawa;1979;NA;NA;Kraków;10;NA
+20;"2017-01-23";Nowiński;Krzysztof;NA;NA;NA;NA;Nietypowe, osobliwe, wyjątkowe.;Biblioteczka Delty;Wydawnictwa Szkolne i Pedagogiczne;Warszawa;1982;NA;NA;Kraków;10;NA
+21;"2017-01-23";Zeldowicz;Jakow;NA;NA;NA;NA;Matematyka wyższa dla początkujących. Zastosowania w fizyce.;NA;Wydawnictwa Naukowo - Techniczne;Warszawa;1976;NA;NA;Kraków;15;NA
+22;"2017-01-23";Stewart;Ian;NA;NA;NA;NA;Wielkie problemy matematyczne;NA;Prószyński i S-ka;Warszawa;2014;NA;NA;Kraków;45;NA
+23;"2017-01-23";Eco;Umberto;NA;NA;NA;NA;Wyspa dnia poprzedniego;NA;Państwowy Instytut Wydawniczy;Warszawa;1995;NA;NA;Kraków;15;NA
+24;"2017-01-23";Eco;Umberto;NA;NA;NA;NA;Wahadło Foucaulta;NA;Państwowy Instytut Wydawniczy;Warszawa;1993;NA;NA;Kraków;15;NA
+25;"2017-01-23";Cormen;Thomas;NA;NA;NA;NA;Algorytmy bez tajemnic;NA;Helion;Gliwice;2013;NA;NA;Kraków;40;NA
+26;"2017-01-23";Dawson;Michael;NA;NA;NA;NA;Python dla każdego. Podstawy programowania.;NA;Helion;Gliwice;2014;NA;NA;Kraków;35;NA
+27;"2017-01-23";Tate;Bruce;NA;NA;NA;NA;Siedem języków w siedem tygodni. Praktyczny przewodnik nauki języków programowania.;NA;Helion;Gliwice;2012;NA;NA;Kraków;59;NA
+28;"2017-01-23";Biecek;Przemysław;NA;NA;NA;NA;Analiza danych z programem R. Modele liniowez efektami stałymi, losowymi i mieszanymi.;NA;Wydawnicto Naukowe PWN;Warszawa;2013;NA;NA;Kraków;25;NA
+29;"2017-01-23";Haines;Stuart;NA;NA;NA;NA;Apeniny Środkowe;NA;Wydawnictwo Sklepu Podróżnika;Warszawa;2016;NA;NA;Kraków;10;NA
+30;"2017-01-23";Pernoud;Regine;NA;NA;NA;NA;Heloiza i Abelard;NA;Książnica;Katowice;2007;NA;NA;Kraków;3;NA
+31;"2017-01-23";Zinkow;Julian;Małecki;Jerzy;NA;NA;Kraków. Trasy podmiejskie.;NA;Wydawnictwo Artystyczno - Graficzne;Kraków;1966;NA;NA;Kraków;5;NA
+32;"2017-01-23";Blixen;Karen;NA;NA;NA;NA;Pożegnanie z Afryką.;Kolekcja Gazety Wyborczej: XX wiek;Gazeta Wyborcza;Warszawa;2013;NA;NA;Kraków;5;NA
