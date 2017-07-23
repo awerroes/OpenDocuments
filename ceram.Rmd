@@ -31,7 +31,7 @@ Bliski Wschód od wypraw krzyżowych do 1517 roku (Holt Peter)
 
 Budowniczowie pierwszych świątyń (Schmidt Klaus (archeolog))
 
-Bułgarzy: Od czasów pogańskich do podboju przez Turcję Osmańską (Lang David Marshall) 
++ Bułgarzy: Od czasów pogańskich do podboju przez Turcję Osmańską (Lang David Marshall) 
 
 + Burzliwe dzieje Morza Karaibskiego (Arciniegas Germán) 
 
@@ -87,7 +87,7 @@ Dzieje imperium perskiego (Olmstead A. T.)
 
 Dzieje Morza Czarnego (King Charles)
 
-Dzieje Rzymu (Cary Max, Scullard Howard Hayes)
++ Dzieje Rzymu (Cary Max, Scullard Howard Hayes)
 
 Dzieje starożytnego Egiptu (Grimal Nicolas)
 
@@ -145,7 +145,7 @@ Kawalerowie maltańscy (Sire H. J. A.)
 
 Kościół w świecie późnego antyku (Wipszycka Ewa)  
 
-Król tańczył na targowisku (Gillmor Frances) 
++ Król tańczył na targowisku (Gillmor Frances) 
 
 Księga wychodzenia za dnia: Tajemnice egipskiej księgi umarłych (Barwik Mirosław) 
 
@@ -257,7 +257,7 @@ Rosja: Dziedzictwo caratu i władzy radzieckiej (Acton Edward)
 
 Rycerstwo (Keen Maurice)  
 
-Rzym i świat śródziemnomorski do wojen punickich (Heurgon Jacques)
++ Rzym i świat śródziemnomorski do wojen punickich (Heurgon Jacques)
 
 + Rzym: Ludzie i budowle (Ciechanowicz Jerzy) 
 
@@ -287,7 +287,7 @@ Starożytna Macedonia (Hammond Nicholas Geoffrey Lemprière)
 
 Starożytni Celtowie (Cunliffe Barry) 
 
-Starożytni olimpijczycy (Miller Stephen G.) 
++ Starożytni olimpijczycy (Miller Stephen G.) 
 
 + Starożytny Egipt: Anatomia cywilizacji (Kemp Barry J.) 
 
@@ -307,9 +307,9 @@ Szlak mirry i kadzidła (Scheck Frank Rainer)
 
 Świat dawnych Słowian (Vana Zdenek)
 
-Świat Księcia Promienistego (Morris Ivan) 
++ Świat Księcia Promienistego (Morris Ivan) 
 
-Świt narodów europejskich: Powstawanie świadomości narodowej na obszarze Europy pokarolińskiej (Zientara Benedykt) 
++ Świt narodów europejskich: Powstawanie świadomości narodowej na obszarze Europy pokarolińskiej (Zientara Benedykt) 
 
 + Tamerlan i jego czasy (Małowist Marian) 
 
@@ -333,7 +333,7 @@ W niebo wpatrzeni (Ley Willy)
 
 + Wandalowie i ich afrykańskie państwo (Strzelczyk Jerzy) 
 
-Wercyngetoryks (Markale Jean) 
++ Wercyngetoryks (Markale Jean) 
 
 + Wielkość i upadek Babilonii (Saggs H. W. F. (Saggs Henry William Frederick)) 
 
