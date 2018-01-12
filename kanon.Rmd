@@ -1,0 +1,119 @@
+---
+title: "Kanon na środek wieku"
+output: pdf_document
+---
+
+1. Wahadło Foucalta (Eco Umberto)
+
+2. Przygody dobrego wojaka Szwejka (Hašek Jaroslav)
+
+3. Paragraf 22 (Heller Joseph)
+
+4. 89 wierszy (Herbert Zbigniew)
+
+5. Ulisses (Joyce James)
+
+6. Proces (Kafka Franz)
+
+7. Czarodziejska góra (Mann Thomas (Mann Tomasz))
+
+8. Sto lat samotności (García Márquez Gabriel)
+
+9. W poszukiwaniu straconego czasu
+
+  * Czas odnaleziony (Proust Marcel)
+
+  * Nie ma Albertyny (Proust Marcel)
+
+  * Sodoma i Gomora (Proust Marcel)
+
+  * Strona Guermantes (Proust Marcel)
+
+  * Uwięziona (Proust Marcel)
+
+  * W cieniu zakwitających dziewcząt (Proust Marcel)
+
+  * W stronę Swanna (Proust Marcel)
+
+10. Mały Książę (Saint-Exupéry Antoine de)
+
+11. Sklepy cynamonowe (Schulz Bruno)
+
+12. Lord Jim (Conrad Joseph (Conrad-Korzeniowski Joseph; właśc. Korzeniowski Józef Teodor Konrad))
+
+13. Wściekłość i wrzask (Faulkner William)
+
+14. Nowy wspaniały świat (Huxley Aldous)
+
+15. Nieznośna lekkość bytu (Kundera Milan)
+
+16. Rozmowa w "Katedrze" (Vargas Llosa Mario)
+
+17. Doktor Faustus (Mann Thomas (Mann Tomasz))
+
+18. Na Zachodzie bez zmian (Remarque Erich Maria (właśc. Remark Erich Paul))
+
+19. Fundacja
+
+  *  Fundacja (Asimov Isaac)
+  
+  * Fundacja i Imperium (Asimov Isaac)
+  
+  * Druga Fundacja (Asimov Isaac)
+  
+  * Agent Fundacji (Asimov Isaac)
+  
+  * Fundacja i Ziemia (Asimov Isaac)
+
+20. Diuna
+
+  * Diuna (Herbert Frank)
+  
+  * Mesjasz Diuny (Herbert Frank)
+  
+  * Dzieci Diuny (Herbert Frank)
+  
+  * Bóg imperator Diuny (Herbert Frank)
+  
+  * Heretycy Diuny (Herbert Frank)
+  
+  * Diuna: Kapitularz (Herbert Frank)
+
+21. Ubik (Dick Philip K. (Dick Philip Kindred))
+
+22. Lód (Dukaj Jacek)
+
+23. Lalka (Prus Bolesław)
+
+24. Kafka i morze (Murakami Haruki)
+
+25. Biesy (Dostojewski Fiodor)
+
+26. Zbrodnia i kara (Dostojewski Fiodor)
+
+27. Wojna i poków (Tołstoj Lew)
+
+28. Wyznania gejszy (Golden Arthur)
+
+29. Germinal (Zola Emil)
+
+30. Trzej muszkieterowie (Dumas Aleksander)
+
+31. Moby Dick czyli biały wieloryb (Herman Melville)
+
+32. Trylogia Ciągu
+
+  * Neuromancer (William Gibson)
+  
+  * Graf Zero (William Gibson)
+  
+  * Mona Liza Turbo (William Gibson)
+ 
+33. Jonathan Strange i Pan Norrell (Susanna Clarke)
+
+34. Luna
+
+  * Nów (Ian McDonald)
+  * Wilcza pełnia (Ian McDonald)
+
+35. Dzieje wypraw krzyżowych (Runciman Steven)
