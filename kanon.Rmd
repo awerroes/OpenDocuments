@@ -91,7 +91,7 @@ output: pdf_document
 
 26. Zbrodnia i kara (Dostojewski Fiodor)
 
-27. Wojna i poków (Tołstoj Lew)
+27. Wojna i pokój (Tołstoj Lew)
 
 28. Wyznania gejszy (Golden Arthur)
 
