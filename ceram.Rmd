@@ -11,6 +11,8 @@ output:
 
 + Angkor i Imperium Khmerskie (Audric John)
 
++ Apacze (Edwin Sweeney)
+
 + Arabia Felix: Historia duńskiej ekspedycji 1761-1767 (Hansen Thorkild) 
 
 Arabowie (Danecki Janusz) 
@@ -38,6 +40,8 @@ Budowniczowie pierwszych świątyń (Schmidt Klaus (archeolog))
 Cesarstwo Bizantyńskie (Browning Robert (1914-1997))
 
 Chiny: Zarys historii kultury (Fitzgerald Charles Patrick) 
+
+Chwala Polnocy (Henryk Litwin)
 
 Cień Minotaura (Ciechanowicz Jerzy)
 
@@ -91,7 +95,7 @@ Dzieje Morza Czarnego (King Charles)
 
 Dzieje starożytnego Egiptu (Grimal Nicolas)
 
-Dzieje wypraw krzyżowych (Runciman Steven)
++ Dzieje wypraw krzyżowych (Runciman Steven)
 
 Florencja: Świat miasta - miasto świata (Beuys Barbara)
 
@@ -129,7 +133,7 @@ Inkwizycja hiszpańska (Kamen Henry)
 
 + Japonia od czasów najdawniejszych do dzisiaj (Hall John Whitney)
 
-Jaśniej niż tysiąc słońc: Losy badaczy atomu (Jungk Robert (właśc. Baum Robert))
++ Jaśniej niż tysiąc słońc: Losy badaczy atomu (Jungk Robert (właśc. Baum Robert))
 
 + Jedwabny szlak: Kultury antyku między Chinami a Rzymem (Uhlig Helmut) - z Książnicy
 
@@ -317,13 +321,13 @@ Templariusze (Barber Malcolm)
 
 + Tutanchamon: Życie, śmierć, odrodzenie (Desroches-Noblecourt Christiane) 
 
-Twórcy kultury holenderskiej (Romein Jan, Romein Anna)
++ Twórcy kultury holenderskiej (Romein Jan, Romein Anna)
 
 + Tybet: Zarys historii kultury (Snellgrove David, Richardson Hugh)
 
 Upadek Cesarstwa Rzymskiego na Zachodzie (Gibbon Edward) 
 
-Upadek Konstantynopola 1453 (Runciman Steven)
++ Upadek Konstantynopola 1453 (Runciman Steven)
 
 Upadek Rzymu (Vogt Joseph) 
 
