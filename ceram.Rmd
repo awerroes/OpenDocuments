@@ -15,7 +15,7 @@ output:
 
 + Arabia Felix: Historia duńskiej ekspedycji 1761-1767 (Hansen Thorkild) 
 
-Arabowie (Danecki Janusz) 
++ Arabowie (Danecki Janusz) 
 
 + Armenia: Kolebka cywilizacji (Lang David Marshall)
 
@@ -47,7 +47,7 @@ Cień Minotaura (Ciechanowicz Jerzy)
 
 + Cywilizacja chińska (Granet Marcel)
 
-Cywilizacja islamu (Sourdel Janine, Sourdel Dominique)
++ Cywilizacja islamu (Sourdel Janine, Sourdel Dominique)
 
 + Cywilizacja Odrodzenia (Delumeau Jean)
 
@@ -59,11 +59,11 @@ Cywilizacja islamu (Sourdel Janine, Sourdel Dominique)
 
 Czarna śmierć: Historia epidemii z lat 1345-1730 (Naphy William, Spicer Andrew) 
 
-Czasy Konstantyna Wielkiego (Burckhardt Jakób (Burckhardt Jacob))
++ Czasy Konstantyna Wielkiego (Burckhardt Jakób (Burckhardt Jacob))
 
 + Czciciele gwiazd: Śladami zaginionych kultur peruwiańskich (Stingl Miloslav) 
 
-Człowiek i śmierć (Ariès Philippe) 
++ Człowiek i śmierć (Ariès Philippe) 
 
 + Dakowie (Daicoviciu Hadrian)
 
@@ -147,7 +147,7 @@ Kawalerowie maltańscy (Sire H. J. A.)
 
 + Konkwistadorzy portugalscy (Małowist Marian) 
 
-Kościół w świecie późnego antyku (Wipszycka Ewa)  
++ Kościół w świecie późnego antyku (Wipszycka Ewa)  
 
 + Król tańczył na targowisku (Gillmor Frances) 
 
@@ -175,7 +175,7 @@ Lud faraonów: Od wieśniaka do dworzanina (Wilson Hilary)
 
 Meksyk przed konkwistą (Olko Justyna) 
 
-Merowingowie i Karolingowie (Faber Gustav) 
++ Merowingowie i Karolingowie (Faber Gustav) 
 
 + Miasta Wezuwiusza: Pompeje i Herkulanum (Grant Michael (1914-2004)) 
 
@@ -203,7 +203,7 @@ Na granicach Rosji: Budowanie imperium na stepie, 1500-1800 (Khodarkovsky Michae
 
 + Nad Nilem Błękitnym i Białym (Moorehead Alan) 
 
-Narodziny weneckiego imperium kolonialnego (Sokołow Nikołaj) 
++ Narodziny weneckiego imperium kolonialnego (Sokołow Nikołaj) 
 
 Nowożytna historia Japonii: Od czasów Tokugawów do współczesności (Gordon Andrew) 
 
@@ -217,7 +217,7 @@ Od Olimpii do Niniwy w epoce Homera (Riemschneider Margarete)
 
 Ogień i krew: Historia Ameryki Łacińskiej (Chasteen John Charles) 
 
-Panorama średniowiecznej Anglii (Coulton George Gordon)
++ Panorama średniowiecznej Anglii (Coulton George Gordon)
 
 + Panowie i niewolnicy (Freyre Gilberto) 
 
