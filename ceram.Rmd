@@ -43,7 +43,7 @@ Chiny: Zarys historii kultury (Fitzgerald Charles Patrick)
 
 + Chwala Polnocy (Henryk Litwin)
 
-Cień Minotaura (Ciechanowicz Jerzy)
++ Cień Minotaura (Ciechanowicz Jerzy)
 
 + Cywilizacja chińska (Granet Marcel)
 
@@ -87,13 +87,15 @@ Dzieje i kultura Hanzy (Schildhauer Johannes)
 
 + Dzieje i kultura ludów Azji Centralnej (Gafurow Bobodżan)
 
-Dzieje imperium perskiego (Olmstead A. T.)
++ Dzieje imperium perskiego (Olmstead A. T.)
 
 + Dzieje Morza Czarnego (King Charles)
 
 + Dzieje Rzymu (Cary Max, Scullard Howard Hayes)
 
 Dzieje starożytnego Egiptu (Grimal Nicolas)
+
++ Dzieje Tajlandii (Chris Baker, Pasuk Phongpaichit)
 
 + Dzieje wypraw krzyżowych (Runciman Steven)
 
@@ -113,11 +115,13 @@ Florencja: Świat miasta - miasto świata (Beuys Barbara)
 
 + Historia kultury bizantyńskiej (Haussig Hans-Wilhelm)
 
++ Historia Norwegii XIX i XX wieku (Grażyna Szelągowska, Krystyna Szelągowska)
+
 Historia państwa Inków (Rostworowska Maria (właśc. Rostworowski de Diez-Canseco Maria))
 
 Historia społeczna Anglii: Od Chaucera do Wiktorii (Trevelyan George Macaulay)
 
-Historia wychowania w starożytności (Marrou Henri Irenée)
++ Historia wychowania w starożytności (Marrou Henri Irenée)
 
 + Hunowie (Thompson Edward Arthur)
 
@@ -157,6 +161,14 @@ Księga wychodzenia za dnia: Tajemnice egipskiej księgi umarłych (Barwik Miros
 
 + Kultura Wysp Cykladzkich w epoce brązu (Press Ludwika)
 
++ Kultura materialna, gospodarka i kapitalizm XV-XVIII wiek (Fernand Braudel)
+
+	+ Struktury codzienności.
+
+	+ Gry wymiany.
+
+	+ Czas świata
+
 + Kulty, religie i tradycje Chin (Wasiliew Leonid)
 
 + Lapończycy: Zarys historii kultury (Vorren Ørnulv, Manker Ernst)
@@ -189,11 +201,11 @@ Miłość w starożytnym Egipcie (Krzemińska Agnieszka)
 
 + Mity, rytuały i polityka Inków (Szemiński Jan, Ziółkowski Mariusz)  
 
-Młodsza Europa: Europa Środkowo-Wschodnia w kręgu cywilizacji chrześcijańskiej średniowiecza (Kłoczowski Jerzy) 
++ Młodsza Europa: Europa Środkowo-Wschodnia w kręgu cywilizacji chrześcijańskiej średniowiecza (Kłoczowski Jerzy) 
 
 Monastycyzm średniowieczny: Formy życia religijnego w średniowiecznej Europie Zachodniej (Lawrence Clifford Hugh) 
 
-Moneta w kulturze wieków średnich (Kiersnowski Ryszard (1925-2006))
++ Moneta w kulturze wieków średnich (Kiersnowski Ryszard (1925-2006))
 
 + Morze wokół nas (Carson Rachel Louise) 
 
@@ -209,7 +221,7 @@ Nowożytna historia Japonii: Od czasów Tokugawów do współczesności (Gordon 
 
 + Obrazy Włoch (Muratow Paweł)
 
-Od Olimpii do Niniwy w epoce Homera (Riemschneider Margarete) 
++ Od Olimpii do Niniwy w epoce Homera (Riemschneider Margarete) 
 
 + Od Rusi do Rosji: Szkice z historii etnicznej (Gumilow Lew) 
 
@@ -253,11 +265,11 @@ Prawdziwa historia czekolady (Coe Sophie D., Coe Michael D.)
 
 Ramzes Wielki i jego czasy (Kitchen Kenneth) 
 
-Religia starożytnych Egipcjan (Černý Jaroslav)
++ Religia starożytnych Egipcjan (Černý Jaroslav)
 
 + Renesans islamu (Mez Adam) 
 
-Rosja: Dziedzictwo caratu i władzy radzieckiej (Acton Edward) 
++ Rosja: Dziedzictwo caratu i władzy radzieckiej (Acton Edward) 
 
 + Rycerstwo (Keen Maurice)  
 
@@ -278,6 +290,8 @@ Siedem cudów świata (Romer John, Romer Elizabeth)
 + Siódma minęła, ósma przemija: Przygody najwcześniejszych odkryć (Herrmann Paul) 
 
 + Słowiański rodowód (Jasienica Paweł (właśc. Beynar Leon Lech))  
+
++ Smok w Krainie Śniegu. Współczesna historia Tybetu (Tsering Shakya)
 
 + Smutek tropików (Lévi-Strauss Claude)  
 
@@ -309,7 +323,7 @@ Szlak mirry i kadzidła (Scheck Frank Rainer)
 
 Śmierć i pogrzeb w starożytnym Egipcie (Ikram Salima) 
 
-Świat dawnych Słowian (Vana Zdenek)
++ Świat dawnych Słowian (Vana Zdenek)
 
 + Świat Księcia Promienistego (Morris Ivan) 
 
@@ -341,9 +355,9 @@ Upadek Rzymu (Vogt Joseph)
 
 + Wielkość i upadek Babilonii (Saggs H. W. F. (Saggs Henry William Frederick)) 
 
-Wikingowie (Foote Peter Godfrey, Wilson David MacKenzie) 
++ Wikingowie (Foote Peter Godfrey, Wilson David MacKenzie) 
 
-+ Wikingowie Pacyfiku (Buck Peter Henry) 
++ Wikingowie Pacyfiku (Buck Peter Henry) *zły stan*
 
 + Wódz Słońca: Autobiografia D. C. Talayesvy, Indianina z plemienia Hopi (Talayesva Don, Simmons Leo)
 
@@ -363,7 +377,9 @@ Wikingowie (Foote Peter Godfrey, Wilson David MacKenzie)
 
 + Zapomniany świat Sumerów (Bielicki Marian Leon (pseud. Lemar Stefan)) 
 
-+ Ze świata Celtów (Dillon Myles, Chadwick Nora K.) 
++ Ze świata Celtów (Dillon Myles, Chadwick Nora K.)
+
++ Zjednoczenie narodów cnych: polskiego, litewskiego, ruskiego. Wołyń i Kijowszczyzna w Unii Lubelskiej (Henryk Litwin)
 
 + Złota gałąź: Studia z magii i religii (Frazer James George)
 
