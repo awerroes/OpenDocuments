@@ -12,7 +12,7 @@
 
 * O Agatoklesie i Antygonie Jednookim; De Agathocle et Antigono Monophthalmo; XLII
 
-* Starożytności Egipskie i Etiopskie; Aethiopica et Libyca; XXXVIII
+* Starożytności Etiopskie i Libijskie; Aethiopica et Libyca; XXXVIII
 
 * Starożytności Asyryjskie i Indyjskie; Diodorus Siculus ASSYRIAKA ET INDIKA; XXXIV
 
@@ -22,9 +22,13 @@
 
 * Rok królów; De regum anno; XLIV
 
+* Starożytności Egipskie; XXXII
+
 ## Julian Apostata; Caesaris Iuliani
 
 * Mowa pochwalna na cześć cesarzowej Euzebii; Encomium Imperatricis Eusebiae; XLV
+
+* Przeciw Galilejczykom; Imperatoris Iuliani contra Galilaeos; XXIV
 
 ## Waleriusz Maksymus; Valerius Maximus
 
