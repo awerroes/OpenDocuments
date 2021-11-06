@@ -26,6 +26,10 @@
 
 ## Julian Apostata; Caesaris Iuliani
 
+* List do Rady i Ludu Ateńskiego; VII
+
+* List do Filozofa Temistiosa; XXII
+
 * Mowa pochwalna na cześć cesarzowej Euzebii; Encomium Imperatricis Eusebiae; XLV
 
 * Przeciw Galilejczykom; Imperatoris Iuliani contra Galilaeos; XXIV
@@ -37,3 +41,15 @@
 ## Uchwała Senatu
 
 * Uchwała Senatu Rzymskiego w sprawie Gnejusza Pizona ojca; Senatus Consultum De CN. Pisone Patre;I
+
+## Święty Augustyn
+
+* List Świętego Augustyna do Fabioli; III
+
+## Germanik Juliusz Cezar
+
+* Aratea; XV
+
+## Pseudo-Callisthenes
+
+* Romans o Aleksandrze; XIV
