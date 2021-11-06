@@ -121,11 +121,15 @@ Historia państwa Inków (Rostworowska Maria (właśc. Rostworowski de Diez-Cans
 
 Historia społeczna Anglii: Od Chaucera do Wiktorii (Trevelyan George Macaulay)
 
++ Historia terroryzmu. Od starożytności do Da'isz (red. Gérarda Chalianda i Arnaud Blina)
+
 + Historia wychowania w starożytności (Marrou Henri Irenée)
 
 + Hunowie (Thompson Edward Arthur)
 
 + Huryci (Popko Maciej)
+
++ Imperia Jedwabnego Szlaku (Christopher Beckwith)
 
 + Indianie z Meksyku (Benitez Fernando)
 
@@ -155,7 +159,7 @@ Kawalerowie maltańscy (Sire H. J. A.)
 
 + Król tańczył na targowisku (Gillmor Frances) 
 
-Księga wychodzenia za dnia: Tajemnice egipskiej księgi umarłych (Barwik Mirosław) 
++ Księga wychodzenia za dnia: Tajemnice egipskiej księgi umarłych (Barwik Mirosław) 
 
 + Kultura starobułgarska (Waklinow Stanczo)
 
@@ -174,6 +178,8 @@ Księga wychodzenia za dnia: Tajemnice egipskiej księgi umarłych (Barwik Miros
 + Lapończycy: Zarys historii kultury (Vorren Ørnulv, Manker Ernst)
 
 Lud faraonów: Od wieśniaka do dworzanina (Wilson Hilary)
+
++ Łowcy przygód w dalekich krainach (Raimund Schulz)
 
 + Magia i wróżbiarstwo u Hetytów (Popko Maciej) 
 
@@ -207,7 +213,9 @@ Monastycyzm średniowieczny: Formy życia religijnego w średniowiecznej Europie
 
 + Moneta w kulturze wieków średnich (Kiersnowski Ryszard (1925-2006))
 
-+ Morze wokół nas (Carson Rachel Louise) 
++ Morze wokół nas (Carson Rachel Louise)
+
++ Morze Śródziemne i świat śródziemnomorski w epoce Filipa II (Fernand Braudel)
 
 + Na drogach i szlakach Rzymian (Wielowiejski Jerzy)
 
@@ -215,7 +223,9 @@ Na granicach Rosji: Budowanie imperium na stepie, 1500-1800 (Khodarkovsky Michae
 
 + Nad Nilem Błękitnym i Białym (Moorehead Alan) 
 
-+ Narodziny weneckiego imperium kolonialnego (Sokołow Nikołaj) 
++ Narodziny weneckiego imperium kolonialnego (Sokołow Nikołaj)
+
++ Naród ujgurski. Reformy i rewolucje na pograniczu rosyjsko-chińskim. (David Brophy)
 
 Nowożytna historia Japonii: Od czasów Tokugawów do współczesności (Gordon Andrew) 
 
@@ -237,7 +247,7 @@ Ogień i krew: Historia Ameryki Łacińskiej (Chasteen John Charles)
 
 + Pierwotni mieszkańcy Australii (Rose Frederick) 
 
-Pierwsze słowo: Narodziny mowy i pisma (Kuckenburg Martin)  
++ Pierwsze słowo: Narodziny mowy i pisma (Kuckenburg Martin)  
 
 + Pierwsze wieki historii Rusi (Rybakow Borys)
 
@@ -325,7 +335,9 @@ Szlak mirry i kadzidła (Scheck Frank Rainer)
 
 + Świat dawnych Słowian (Vana Zdenek)
 
-+ Świat Księcia Promienistego (Morris Ivan) 
++ Świat Księcia Promienistego (Morris Ivan)
+
++ Święty ład. Stosunki międzynarodowe w Azji od czasów Chyngis-chana (red. Timothy Brooka, Michaela van Walta van Praaga, Miek Boltjes)
 
 + Świt narodów europejskich: Powstawanie świadomości narodowej na obszarze Europy pokarolińskiej (Zientara Benedykt) 
 
