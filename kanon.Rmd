@@ -111,9 +111,10 @@ output: pdf_document
  
 33. Jonathan Strange i Pan Norrell (Susanna Clarke)
 
-34. Luna
+34. Luna (Ian McDonald)
 
-  * Nów (Ian McDonald)
-  * Wilcza pełnia (Ian McDonald)
+  * Nów
+  * Wilcza pełnia
+  * Wschód
 
 35. Dzieje wypraw krzyżowych (Runciman Steven)
