@@ -24,6 +24,8 @@
 
 * Starożytności Egipskie; XXXII
 
+* Od mitu do historii; L
+
 ## Julian Apostata; Caesaris Iuliani
 
 * List do Rady i Ludu Ateńskiego; VII
