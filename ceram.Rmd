@@ -5,6 +5,8 @@ output:
 ---
 # "CERAM" - Rodowody Cywilizacji
 
++ 1989. Jesień Narodów (Adam Burakowski)
+
 + Alfabet czyli Klucz do dziejów ludzkości (Diringer David)
 
 + Ałtaj - Himalaje (Rerich Mikołaj (Rerich Nikołaj))
@@ -22,6 +24,8 @@ output:
 Aztekowie: Próba interpretacji (Clendinnen Inga)
 
 + Bliski Wschód od wypraw krzyżowych do 1517 roku (Holt Peter)
+
++ Bogowie Grecji. Obraz boskości w zwierciadle greckiego ducha (Walter F. Otto)
 
 + Bogowie i Giganci: Powieść o ołtarzu pergameńskim (Stoll Heinrich Alexander) 
 
@@ -75,7 +79,7 @@ Czarna śmierć: Historia epidemii z lat 1345-1730 (Naphy William, Spicer Andrew
 
 + Dzieje chrześcijaństwa na Litwie (Ališauskas Vytautas, Baronas Darius, Paknys Mindaugas, Jovaiša Liudas, Raila Eligijus, Subačius Paulius, Streikus Arunas)
 
-Dzieje Cyganów (Fraser Angus)
++ Dzieje Cyganów (Fraser Angus)
 
 + Dzieje dawnego Izraela (Grant Michael (1914-2004))
 
@@ -138,6 +142,8 @@ Historia społeczna Anglii: Od Chaucera do Wiktorii (Trevelyan George Macaulay)
 Inkwizycja hiszpańska (Kamen Henry)
 
 + Iroszkoci w kulturze średniowiecznej Europy (Strzelczyk Jerzy)
+
++ Jak kwitnące drzewo. Florencja średniowieczna i renesansowa (Silvia Diacciati, Enrico Faini, Lorenzo Tanzini, Sergio Tognetti)
 
 + Japonia od czasów najdawniejszych do dzisiaj (Hall John Whitney)
 
@@ -209,9 +215,11 @@ Miłość w starożytnym Egipcie (Krzemińska Agnieszka)
 
 + Młodsza Europa: Europa Środkowo-Wschodnia w kręgu cywilizacji chrześcijańskiej średniowiecza (Kłoczowski Jerzy) 
 
-Monastycyzm średniowieczny: Formy życia religijnego w średniowiecznej Europie Zachodniej (Lawrence Clifford Hugh) 
++ Monastycyzm średniowieczny: Formy życia religijnego w średniowiecznej Europie Zachodniej (Lawrence Clifford Hugh) 
 
 + Moneta w kulturze wieków średnich (Kiersnowski Ryszard (1925-2006))
+
++ Morze i cywilizacja. Morskie dzieje świata. (Lincoln Paine)
 
 + Morze wokół nas (Carson Rachel Louise)
 
@@ -237,7 +245,9 @@ Nowożytna historia Japonii: Od czasów Tokugawów do współczesności (Gordon 
 
 + Odkrywcy i rabusie starożytności: Rzecz o wykopaliskach (Lorenz Eva) 
 
-Ogień i krew: Historia Ameryki Łacińskiej (Chasteen John Charles) 
+Ogień i krew: Historia Ameryki Łacińskiej (Chasteen John Charles)
+
++ Orientalizm po rosyjsku. Górale Kaukazu Północnego i pogranicze gruzińskie, 1845-1917 (Austin Jersild)
 
 + Panorama średniowiecznej Anglii (Coulton George Gordon)
 
@@ -269,7 +279,7 @@ Polowania na czarownice: Dzieje prześladowań czarownic w Europie i Ameryce Pó
 
 + Praga: Legenda i rzeczywistość (Krejčí Karel) 
 
-Prawdziwa historia czekolady (Coe Sophie D., Coe Michael D.) 
++ Prawdziwa historia czekolady (Coe Sophie D., Coe Michael D.) 
 
 + Przemysł polski w dawnych wiekach (Bocheński Aleksander) 
 
@@ -307,13 +317,13 @@ Siedem cudów świata (Romer John, Romer Elizabeth)
 
 + Spadkobiercy: Opowieść o człowieku i stworzonym przez niego świecie (Calder Ritchie (właśc. Ritchie Calder Peter))
 
-Społeczeństwo feudalne (Bloch Marc) 
++ Społeczeństwo feudalne (Bloch Marc) 
 
 Stara Afryka na nowo odkryta (Davidson Basil) 
 
 Starożytna Macedonia (Hammond Nicholas Geoffrey Lemprière)
 
-Starożytni Celtowie (Cunliffe Barry) 
++ Starożytni Celtowie (Cunliffe Barry) 
 
 + Starożytni olimpijczycy (Miller Stephen G.) 
 
@@ -323,7 +333,9 @@ Starzy i nowi bogowie Japonii (Arutjunow Siergiej, Swietłow Gieorgij)
 
 + Strażnicy złota (Albaum L. I., Brentjes B.)
 
-Szlak mirry i kadzidła (Scheck Frank Rainer) 
+Szlak mirry i kadzidła (Scheck Frank Rainer)
+
++ Sztuka czytania i pisania w Babilonie (Dominique Charpin)
 
 + Sztuka Etrusków (Dobrowolski Witold)
 
@@ -339,11 +351,11 @@ Szlak mirry i kadzidła (Scheck Frank Rainer)
 
 + Święty ład. Stosunki międzynarodowe w Azji od czasów Chyngis-chana (red. Timothy Brooka, Michaela van Walta van Praaga, Miek Boltjes)
 
-+ Świt narodów europejskich: Powstawanie świadomości narodowej na obszarze Europy pokarolińskiej (Zientara Benedykt) 
++ Świt narodów europejskich: Powstawanie świadomości narodowej na obszarze Europy pokarolińskiej (Zientara Benedykt)
 
 + Tamerlan i jego czasy (Małowist Marian) 
 
-Templariusze (Barber Malcolm) 
++ Templariusze (Barber Malcolm) 
 
 + Tutanchamon: Życie, śmierć, odrodzenie (Desroches-Noblecourt Christiane) 
 
@@ -355,7 +367,7 @@ Templariusze (Barber Malcolm)
 
 + Upadek Konstantynopola 1453 (Runciman Steven)
 
-Upadek Rzymu (Vogt Joseph) 
++ Upadek Rzymu (Vogt Joseph) 
 
 + W niebo wpatrzeni (Ley Willy) 
 
