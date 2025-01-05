@@ -21,7 +21,7 @@ output:
 
 + Armenia: Kolebka cywilizacji (Lang David Marshall)
 
-Aztekowie: Próba interpretacji (Clendinnen Inga)
++ Aztekowie: Próba interpretacji (Clendinnen Inga)
 
 + Bliski Wschód od wypraw krzyżowych do 1517 roku (Holt Peter)
 
@@ -149,7 +149,7 @@ Inkwizycja hiszpańska (Kamen Henry)
 
 + Jaśniej niż tysiąc słońc: Losy badaczy atomu (Jungk Robert (właśc. Baum Robert))
 
-+ Jedwabny szlak: Kultury antyku między Chinami a Rzymem (Uhlig Helmut) - z Książnicy
++ Jedwabny szlak: Kultury antyku między Chinami a Rzymem (Uhlig Helmut) - z Książnicy, Ceram
 
 + Jesień średniowiecza (Huizinga Johan)
 
@@ -157,7 +157,7 @@ Inkwizycja hiszpańska (Kamen Henry)
 
 Katarzy (Barber Malcolm) 
 
-Kawalerowie maltańscy (Sire H. J. A.) 
++ Kawalerowie maltańscy (Sire H. J. A.) 
 
 + Konkwistadorzy portugalscy (Małowist Marian) 
 
@@ -186,6 +186,8 @@ Kawalerowie maltańscy (Sire H. J. A.)
 Lud faraonów: Od wieśniaka do dworzanina (Wilson Hilary)
 
 + Łowcy przygód w dalekich krainach (Raimund Schulz)
+
++ Magiczny rok 1497 (Wojciech Iwańczak)
 
 + Magia i wróżbiarstwo u Hetytów (Popko Maciej) 
 
